@@ -1,0 +1,1 @@
+const endpoint = 'https://story-api.dicoding.dev/v1';
